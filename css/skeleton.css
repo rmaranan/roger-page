@@ -418,3 +418,6 @@ there.
 @media (min-width: 1200px) {}
 
 /* EXTRAS*/
+.img-container {
+  width:300px
+}
